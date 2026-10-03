@@ -10,7 +10,7 @@ The portfolio demonstrates my ability to combine technical expertise, business u
 
 # 👨‍💻 Professional Background
 
-I am a software professional with experience in SAP Commerce Cloud backend development, working with cross-functional teams and Business Analysts to deliver business solutions.
+Business & Technology Analyst with 7 years in IT delivery (3 as a Business Analyst) across logistics, retail and pharmacy clients. I work with business stakeholders and development teams to turn requirements into user stories, run UAT and present sprint demos, and I use data (logs, order and product data, root-cause reports) to improve release quality. My engineering background in SAP Commerce Cloud and Java helps me understand data at its source. This portfolio shows the data analytics skills I built through a Diploma in Data Analytics and hands-on projects.
 
 My experience includes:
 
@@ -181,7 +181,7 @@ Some highlighted projects include:
 
 **Sreerag K S**
 
-SAP Commerce Cloud Backend Developer | Business Analysis | Data Analytics
+Business & Technology Analyst | Data Analytics | SAP Commerce Cloud
 
 **Technical Skills**
 
