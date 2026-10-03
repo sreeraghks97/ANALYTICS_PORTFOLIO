@@ -187,9 +187,9 @@ Business & Technology Analyst | Data Analytics | SAP Commerce Cloud
 
 SQL | Excel | Power BI | Tableau | Python | SAP Commerce Cloud | Java
 
-LinkedIn: *(Add your LinkedIn profile link)*
+LinkedIn: [https://linkedin.com/in/sreeraghks97](https://linkedin.com/in/sreeraghks97)
 
-GitHub: *(This repository)*
+GitHub: https://github.com/sreeraghks97/ANALYTICS_PORTFOLIO
 
 ---
 
